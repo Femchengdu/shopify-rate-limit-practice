@@ -1,0 +1,1 @@
+# A project to practice rate limited requests using graphql on shopify
